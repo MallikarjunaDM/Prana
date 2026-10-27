@@ -1,0 +1,10 @@
+{
+  "tau_a": 0.1,
+  "tau_c": 0.0,
+  "delta": 0.2,
+  "mean_action_crash_recall": 1.0,
+  "mean_argmax_crash_recall": 1.0,
+  "model": "mtree_xgb",
+  "calibration": "isotonic_per_class",
+  "note": "Thresholds tuned on calibration set to target crash recall>=0.95. Actual achieved recall reported above. ALERT=SIMULATION only \u2014 no real emergency service connected."
+}

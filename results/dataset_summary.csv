@@ -1,0 +1,4 @@
+source,n_rows,n_sessions,label_distribution,missing_per_col,constant_channels,duplicate_rows,ts_ordering_issues,clipping_suspects,estimated_hz,tiny_sessions_lt50
+darus,211238,41,"{""NORMAL"": 181587, ""CRASH"": 14047, ""BUMP"": 11703, ""POTHOLE"": 3901}","{""acc_x"": 0, ""acc_y"": 0, ""acc_z"": 0, ""gyro_x"": 0, ""gyro_y"": 0, ""gyro_z"": 0, ""acc_mag"": 0}",none,11,2,none,2000.0,0
+roadsens,616863,101,"{""NORMAL"": 332026, ""BUMP"": 171380, ""POTHOLE"": 113457}","{""acc_x"": 0, ""acc_y"": 0, ""acc_z"": 0, ""gyro_x"": 1, ""gyro_y"": 1, ""gyro_z"": 1, ""acc_mag"": 0}",none,0,0,none,100.0,0
+kaggle,8000,80,"{""NORMAL"": 7000, ""CRASH"": 1000}","{""acc_x"": 0, ""acc_y"": 0, ""acc_z"": 0, ""gyro_x"": 0, ""gyro_y"": 0, ""gyro_z"": 0, ""acc_mag"": 0}",none,0,0,none,1.0,0

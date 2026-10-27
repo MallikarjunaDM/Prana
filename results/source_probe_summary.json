@@ -1,0 +1,46 @@
+{
+  "mean_source_accuracy": 0.9996271230419886,
+  "interpretation": "High accuracy (>0.8) = shortcut risk. Moderate (0.6-0.8) = some artefacts. Low (<0.6) = good.",
+  "top_differentiating_features": [
+    [
+      "acc_mag_median",
+      0.26393643021583557
+    ],
+    [
+      "acc_z_rms",
+      0.2228441834449768
+    ],
+    [
+      "acc_z_min",
+      0.12885430455207825
+    ],
+    [
+      "acc_x_range",
+      0.10069679468870163
+    ],
+    [
+      "acc_mag_mean",
+      0.09694996476173401
+    ],
+    [
+      "acc_mag_rms",
+      0.07315193861722946
+    ],
+    [
+      "acc_z_wav_energy_L0",
+      0.05056815221905708
+    ],
+    [
+      "acc_mag_min",
+      0.04265967383980751
+    ],
+    [
+      "acc_z_mean",
+      0.005965035874396563
+    ],
+    [
+      "acc_x_band_high",
+      0.0018345146672800183
+    ]
+  ]
+}
